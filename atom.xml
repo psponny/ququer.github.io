@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ququer.github.io</id>
+    <id>https://psponny.github.io/ququer.github.io</id>
     <title>蛐蛐儿’BLOG</title>
-    <updated>2020-04-20T02:51:57.029Z</updated>
+    <updated>2020-04-20T03:11:51.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ququer.github.io"/>
-    <link rel="self" href="https://ququer.github.io/atom.xml"/>
+    <link rel="alternate" href="https://psponny.github.io/ququer.github.io"/>
+    <link rel="self" href="https://psponny.github.io/ququer.github.io/atom.xml"/>
     <subtitle>记录生活美好生活</subtitle>
-    <logo>https://ququer.github.io/images/avatar.png</logo>
-    <icon>https://ququer.github.io/favicon.ico</icon>
+    <logo>https://psponny.github.io/ququer.github.io/images/avatar.png</logo>
+    <icon>https://psponny.github.io/ququer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 蛐蛐儿’BLOG</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ququer.github.io/post/hello-gridea/</id>
-        <link href="https://ququer.github.io/post/hello-gridea/">
+        <id>https://psponny.github.io/ququer.github.io/post/hello-gridea/</id>
+        <link href="https://psponny.github.io/ququer.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
